@@ -1,0 +1,6 @@
+#operation %: modulo which gives remainder
+x=int(input("What's x?"))
+if x%2==0:
+    print("x is even")
+else:
+    print("x is odd")
