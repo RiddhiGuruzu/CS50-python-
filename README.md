@@ -1,3 +1,5 @@
-Week 1 files
+This is my work for the CS50 harvard EdX course.
 
-p1.py
+Each week has files divided for notes and exercises.
+
+
